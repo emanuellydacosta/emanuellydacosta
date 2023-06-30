@@ -1,10 +1,21 @@
-- olá, sou @emanuellydacosta 💛
-- 👀 estou estudando na alura ...
-- 🌱 Estou me desenvolvendo na linguagem JavaScrip ...
-- 💞️ utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido...
+Bem-vindo ao meu perfil ! 
 
-  *** Você
+- olá, sou @emanuellydacosta 💕
+-  estou estudando na alura ...
+-  Estou me desenvolvendo na linguagem JavaScrip ...
+-  utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido...
+ 
+  
+** Você pode entrar em contato comigo
+
+emanuelly.da.costa@escola.pr.gov.br
+
+@emanuelly.da.costa
 
 
-emanuellydacosta/emanuellydacosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+
+
+
+![](https://media.tenor.com/wptdA2U8JAQAAAAM/hmmm.gif
+) 
